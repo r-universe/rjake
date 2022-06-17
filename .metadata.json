@@ -1,0 +1,14 @@
+[
+  {
+    "package": "headliner",
+    "oncran": true
+  },
+  {
+    "package": "shinyobjects",
+    "oncran": true
+  },
+  {
+    "package": "simplecolors",
+    "oncran": true
+  }
+]
