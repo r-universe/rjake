@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/rjake/headliner
-	shallow = true
-	registered = true
 [submodule "shinyobjects"]
 	path = shinyobjects
 	url = https://github.com/rjake/shinyobjects
-	shallow = true
-	registered = true
 [submodule "simplecolors"]
 	path = simplecolors
 	url = https://github.com/rjake/simplecolors
-	shallow = true
-	registered = true
